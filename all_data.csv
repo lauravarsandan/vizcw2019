@@ -1,13 +1,4 @@
-﻿Area Code,Area Group,Area Subgroup,Area Name,Area Type,Year,Wheelchair accessible taxis ,"Other 
-taxis ","Total 
-taxis2",Taxi only licensed drivers,Wheelchair accessible PHVs,"Other 
-PHVs ","Total 
-PHVs","Operator 
-licences 
-issued",PHV only licenced Drivers,Dual taxi/PHV driver licences,"Total 
-driver 
-licences 
-issued",Total licensed vehicles,Population
+﻿AreaCode,AreaGroup,AreaSubgroup,AreaName,AreaType,Year,WheelchairTaxis,OtherTaxi,TotalTaxis,TaxiOnlyLicensedDrivers,WheelchairPHVs,OtherPHVs ,TotalPHVs,OperatorLicencesIssued,PHVOnlyLicencedDrivers,DualTaxiPHVDriverLicences,TotalDriverLicencesIssued,TotalLicensedVehicles,Population
 E06000048,NORTH EAST,Northumberland,Northumberland,Largely Rural,2005,28,325,353,362,0,0,287,103,297,418,"1,077",640,316116
 E06000005,NORTH EAST,Darlington,Darlington,Urban with City and Town,2005,7,221,228,260,0,0,70,5,121,87,468,298,105248
 E06000047,NORTH EAST,County Durham,County Durham,Largely Rural,2005,73,704,777,692,0,0,500,171,333,718,"1,743","1,277",514348
